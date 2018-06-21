@@ -12,6 +12,10 @@
     <contributor>
       <name>Sebastian Karcher</name>
     </contributor>
+    <contributor>
+      <name>Kevin Martinez-Folgar, MD</name>
+      <uri>https://www.mendeley.com/profiles/kevin-martinez-folgar/</uri>
+    </contributor>
     <category citation-format="numeric"/>
     <category field="medicine"/>
     <category field="biology"/>
@@ -105,7 +109,7 @@
       </if>
     </choose>
   </macro>
-  <citation collapse="citation-number">
+  <citation>
     <sort>
       <key variable="citation-number"/>
     </sort>
